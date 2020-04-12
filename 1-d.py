@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Mar 27 13:59:05 2020
-
-@author: AyodejiAbass
-"""
-
 
 from pulp import *
 #define the model
