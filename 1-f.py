@@ -1,13 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Mar 27 14:42:36 2020
-
-@author: AyodejiAbass
-"""
-
-
-
 from pulp import *
 #define the model
 prob = LpProblem("Whitt Window Company.", LpMaximize)
