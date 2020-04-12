@@ -1,10 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Mar 29 15:50:56 2020
 
-@author: AyodejiAbass
-"""
 from pulp import *
 #define the model
 prob = LpProblem("Investment.", LpMaximize)
