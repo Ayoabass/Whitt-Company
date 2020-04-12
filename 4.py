@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Mar 29 16:36:23 2020
-
-@author: AyodejiAbass
-"""
 
 
 from pulp import *
